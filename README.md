@@ -1,7 +1,7 @@
 # ZenPackExporter
 Script to export ZenPacks from Zenoss 4 via the command line.
 
-Providing the script with a ZenPack name will create the objects.xml and the skins folder normally done by the export option on the web interface.
+Providing the script with a ZenPack name will create the objects.xml and the skins folder usually one via the export option on the web interface.
 
 The script can also then build the ZenPack egg and drop it in a folder of your choosing
 
