@@ -1,5 +1,11 @@
 #! /usr/bin/env python
 
+#
+#  ZenPack Export Script 
+#  Written by Nick Muir (www.nickmuir.net)
+#  Version: 1.0.0
+#  License: GPL
+#
 import string
 import sys
 import Globals
